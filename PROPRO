@@ -1,0 +1,1 @@
+game.Local.Players:Kick("User BANNED")
